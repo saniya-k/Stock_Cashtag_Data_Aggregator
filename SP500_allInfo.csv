@@ -1,0 +1,505 @@
+Address_Line1,Address_Line2,City,Company,Contact,Country,Full_Time_Employees,Industry,Sector,State,Ticker,Website,Zipcode
+909 Third Avenue, ,New York,Interpublic Group,212-704-1200,United States,"54,300",Advertising Agencies,Communication Services,NY,IPG,http://www.interpublic.com,10022
+437 Madison Avenue, ,New York,Omnicom Group,212-415-3600,United States,"70,000",Advertising Agencies,Communication Services,NY,OMC,http://www.omnicomgroup.com,10022
+6801 Rockledge Drive, ,Bethesda,Lockheed Martin Corp.,301-897-6000,United States,"110,000",Aerospace & Defense,Industrials,MD,LMT,http://www.lockheedmartin.com,20817
+The Tower at Erieview,Suite 3000 1301 East 9th Street,Cleveland,TransDigm Group,216-706-2960,United States,"18,300",Aerospace & Defense,Industrials,OH,TDG,http://www.transdigm.com,44114
+40 Westminster Street, ,Providence,Textron Inc.,401 421 2800,United States,"35,000",Aerospace & Defense,Industrials,RI,TXT,http://www.textron.com,02903
+1025 West NASA Boulevard, ,Melbourne,L3Harris Technologies,321-727-9100,United States,"50,000",Aerospace & Defense,Industrials,FL,LHX,http://www.l3harris.com,32919
+100 North Riverside Plaza, ,Chicago,Boeing Company,312-544-2000,United States,"161,100",Aerospace & Defense,Industrials,IL,BA,http://www.boeing.com,60606-1596
+201 Isabella Street,Suite 200,Pittsburgh,Howmet Aerospace,412 553 2500,United States,"41,700",Specialty Industrial Machinery,Industrials,PA,HWM,http://www.howmet.com,15212-5872
+1049 Camino Dos Rios, ,Thousand Oaks,Teledyne Technologies,805 373 4545,United States,"11,790",Scientific & Technical Instruments,Technology,CA,TDY,http://www.teledyne.com,91360-2362
+2980 Fairview Park Drive, ,Falls Church,Northrop Grumman,703 280 2900,United States,"90,000",Aerospace & Defense,Industrials,VA,NOC,http://www.northropgrumman.com,22042
+870 Winter Street, ,Waltham,Raytheon Technologies,781-522-3000,United States,"195,000",Aerospace & Defense,Industrials,MA,RTX,http://www.rtx.com,02451
+4101 Washington Avenue, ,Newport News,Huntington Ingalls Industries,757-380-2000,United States,"42,000",Aerospace & Defense,Industrials,VA,HII,http://www.huntingtoningalls.com,23607
+One John Deere Place, ,Moline,Deere & Co.,309-765-8000,United States,"73,489",Farm & Heavy Construction Machinery,Industrials,IL,DE,http://www.deere.com,61265
+77 West Wacker Drive,Suite 4600,Chicago,Archer-Daniels-Midland Co,312 634 8100,United States,"38,100",Farm Products,Consumer Defensive,IL,ADM,http://www.adm.com,60601
+1015 Third Avenue, ,Seattle,Expeditors,206 674 3400,United States,"17,937",Integrated Freight & Logistics,Industrials,WA,EXPD,http://www.expeditors.com,98104
+"55 Glenlake Parkway, NE", ,Atlanta,United Parcel Service,404 828 6000,United States,"260,280",Integrated Freight & Logistics,Industrials,GA,UPS,http://www.ups.com,30328
+942 South Shady Grove Road, ,Memphis,FedEx Corporation,901 818 7500,United States,"324,000",Integrated Freight & Logistics,Industrials,TN,FDX,http://www.fedex.com,38120
+14701 Charlson Road, ,Eden Prairie,C. H. Robinson Worldwide,952 937 8500,United States,"15,338",Integrated Freight & Logistics,Industrials,MN,CHRW,http://www.chrobinson.com,55347
+233 South Wacker Drive, ,Chicago,United Airlines Holdings,872 825 4000,United States,"87,887",Airlines,Industrials,IL,UAL,http://www.united.com,60606
+PO Box 20706, ,Atlanta,Delta Air Lines Inc.,404 715 2600,United States,"91,000",Airlines,Industrials,GA,DAL,http://www.delta.com,30320-6001
+19300 International Boulevard, ,Seattle,Alaska Air Group Inc,206 392 5040,United States,"18,112",Airlines,Industrials,WA,ALK,http://www.alaskaair.com,98188
+PO Box 36611, ,Dallas,Southwest Airlines,214 792 4000,United States,"57,931",Airlines,Industrials,TX,LUV,http://www.southwest.com,75235-1611
+1 Skyview Drive, ,Fort Worth,American Airlines Group,817 963 1234,United States,"110,500",Airlines,Industrials,TX,AAL,http://www.aa.com,76155
+100 CenturyLink Drive, ,Monroe,Lumen Technologies,318-388-9000,United States,"40,000",Telecom Services,Communication Services,LA,LUMN,http://www.lumen.com,71203
+2 Folsom Street, ,San Francisco,Gap Inc.,415 427 0100,United States,"129,000",Apparel Retail,Consumer Cyclical,CA,GPS,http://www.gapinc.com,94105
+5130 Hacienda Drive, ,Dublin,Ross Stores,925 965 4400,United States,"92,500",Apparel Retail,Consumer Cyclical,CA,ROST,http://www.rossstores.com,94568
+770 Cochituate Road, ,Framingham,TJX Companies Inc.,508 390 1000,United States,"286,000",Apparel Retail,Consumer Cyclical,MA,TJX,http://www.tjx.com,01701
+Three Limited Parkway, ,Columbus,L Brands Inc.,614 415 7000,United States,"25,500",Apparel Retail,Consumer Cyclical,OH,LB,http://www.lb.com,43230
+1020 Hull Street, ,Baltimore,Under Armour (Class A),410 454 6428,United States,"7,000",Apparel Manufacturing,Consumer Cyclical,MD,UAA,http://www.underarmour.com,21230
+8505 East Orchard Road, ,Greenwood Village,VF Corporation,720 778 4000,United States,"48,000",Apparel Manufacturing,Consumer Cyclical,CO,VFC,http://www.vfc.com,80111
+727 Fifth Avenue, ,New York,Tiffany & Co.,212 755 8000,United States,"14,100",Luxury Goods,Consumer Cyclical,NY,TIF,http://www.tiffany.com,10022
+1020 Hull Street, ,Baltimore,Under Armour (Class C),410 454 6428,United States,"7,000",Apparel Manufacturing,Consumer Cyclical,MD,UA,http://www.underarmour.com,21230
+1000 East Hanes Mill Road, ,Winston-Salem,Hanesbrands Inc,336 519 8080,United States,"63,000",Apparel Manufacturing,Consumer Cyclical,NC,HBI,http://www.hanes.com,27105
+200 Madison Avenue, ,New York,PVH Corp.,212 381 3500,United States,"21,500",Apparel Manufacturing,Consumer Cyclical,NY,PVH,http://www.pvh.com,10016
+130 Royall Street, ,Canton,Ralph Lauren Corporation,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,RL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,"Tapestry, Inc.",781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TPR,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,"Nike, Inc.",781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,NKE,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Adobe Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ADBE,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Oracle Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ORCL,http://www.dunkinbrands.com,02021
+Salesforce Tower,3rd Floor 415 Mission Street,San Francisco,Salesforce.com,415 901 7000,United States,"54,255",Software—Application,Technology,CA,CRM,http://www.salesforce.com,94105
+130 Royall Street, ,Canton,Paycom,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PAYC,http://www.dunkinbrands.com,02021
+690 East Middlefield Road, ,Mountain View,Synopsys Inc.,650 584 5000,United States,"13,896",Software—Infrastructure,Technology,CA,SNPS,http://www.synopsys.com,94043
+130 Royall Street, ,Canton,Tyler Technologies,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TYL,http://www.dunkinbrands.com,02021
+60 East Rio Salado Parkway,Suite 1000,Tempe,NortonLifeLock,650-527-8000,United States,"3,600",Software—Infrastructure,Technology,AZ,NLOK,http://www.nortonLifeLock.com,85281
+111 McInnis Parkway, ,San Rafael,Autodesk Inc.,415 507 5000,United States,"10,100",Software—Application,Technology,CA,ADSK,http://www.autodesk.com,94903
+2655 Seely Avenue,Building 5,San Jose,Cadence Design Systems,408 943 1234,United States,"8,100",Software—Application,Technology,CA,CDNS,http://www.cadence.com,95134
+130 Royall Street, ,Canton,Intuit Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,INTU,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,ANSYS,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ANSS,http://www.dunkinbrands.com,02021
+851 West Cypress Creek Road, ,Fort Lauderdale,Citrix Systems,954 267 3000,United States,"8,400",Software—Application,Technology,FL,CTXS,http://www.citrix.com,33309
+130 Royall Street, ,Canton,BlackRock,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,BLK,http://www.dunkinbrands.com,02021
+Two Peachtree Pointe,"1555 Peachtree Street, NE, Suite 1800",Atlanta,Invesco Ltd.,404-479-1095,United States,"8,717",Asset Management,Financial Services,GA,IVZ,http://www.invesco.com,30309
+130 Royall Street, ,Canton,T. Rowe Price Group,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TROW,http://www.dunkinbrands.com,02021
+State Street Financial Center,One Lincoln Street,Boston,State Street Corp.,617-786-3000,United States,"38,979",Asset Management,Financial Services,MA,STT,http://www.statestreet.com,02111
+130 Royall Street, ,Canton,Ameriprise Financial,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AMP,http://www.dunkinbrands.com,02021
+One Franklin Parkway, ,San Mateo,Franklin Resources,650-312-2000,United States,"9,500",Asset Management,Financial Services,CA,BEN,http://www.franklinresources.com,94403
+240 Greenwich Street, ,New York,The Bank of New York Mellon,212-495-1784,United States,"48,400",Asset Management,Financial Services,NY,BK,http://www.bnymellon.com,10286
+130 Royall Street, ,Canton,Northern Trust Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,NTRS,http://www.dunkinbrands.com,02021
+3850 Hamlin Road, ,Auburn Hills,BorgWarner,248 754 9200,United States,"29,000",Auto Parts,Consumer Cyclical,MI,BWA,http://www.borgwarner.com,48326
+One American Road, ,Dearborn,Ford Motor Company,313 322 3000,United States,"190,000",Auto Manufacturers,Consumer Cyclical,MI,F,http://www.ford.com,48126
+130 Royall Street, ,Canton,General Motors,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,GM,http://www.dunkinbrands.com,02021
+2635 East Millbrook Road, ,Raleigh,Advance Auto Parts,540 362 4911,United States,"39,000",Specialty Retail,Consumer Cyclical,NC,AAP,http://www.advanceautoparts.com,27604
+50 Northern Avenue, ,Boston,Vertex Pharmaceuticals Inc,617 341 6100,United States,"3,000",Biotechnology,Healthcare,MA,VRTX,http://www.vrtx.com,02210
+225 Binney Street, ,Cambridge,Biogen Inc.,617 679 2000,United States,"7,400",Drug Manufacturers—General,Healthcare,MA,BIIB,http://www.biogen.com,02142
+333 Lakeside Drive, ,Foster City,Gilead Sciences,650-574-3000,United States,"11,800",Drug Manufacturers—General,Healthcare,CA,GILD,http://www.gilead.com,94404
+One Amgen Center Drive, ,Thousand Oaks,Amgen Inc.,805 447 1000,United States,"23,400",Drug Manufacturers—General,Healthcare,CA,AMGN,http://www.amgen.com,91320-1799
+777 Old Saw Mill River Road, ,Tarrytown,Regeneron Pharmaceuticals,914 847 7000,United States,"8,142",Biotechnology,Healthcare,NY,REGN,http://www.regeneron.com,10591
+1801 Augustine Cut-Off, ,Wilmington,Incyte,302 498 6700,United States,"1,456",Biotechnology,Healthcare,DE,INCY,http://www.incyte.com,19803
+121 Seaport Boulevard, ,Boston,Alexion Pharmaceuticals,475 230 2596,United States,"3,082",Biotechnology,Healthcare,MA,ALXN,http://www.alexion.com,02210
+1801 California Street,Suite 4600,Denver,Molson Coors Beverage Company,303 927 2337,United States,"17,700",Beverages—Brewers,Consumer Defensive,CO,TAP,http://www.molsoncoors.com,80202
+8403 Colesville Road, ,Silver Spring,"Discovery, Inc. (Class C)",240-662-2000,United States,"9,200",Entertainment,Communication Services,MD,DISCK,http://corporate.discovery.com,20910
+8403 Colesville Road, ,Silver Spring,"Discovery, Inc. (Class A)",240-662-2000,United States,"9,200",Entertainment,Communication Services,MD,DISCA,http://corporate.discovery.com,20910
+130 Royall Street, ,Canton,Johnson Controls International,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,JCI,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Carrier Global,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CARR,http://www.dunkinbrands.com,02021
+17450 College Parkway, ,Livonia,Masco Corp.,313 274 7400,United States,"22,000",Building Products & Equipment,Industrials,MI,MAS,http://masco.com,48152
+520 Lake Cook Road, ,Deerfield,Fortune Brands Home & Security,847 484 4400,United States,"24,700","Furnishings, Fixtures & Appliances",Consumer Cyclical,IL,FBHS,http://www.fbhs.com,60015
+130 Royall Street, ,Canton,Trane Technologies plc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TT,http://www.dunkinbrands.com,02021
+11270 West Park Place,Suite 170 PO Box 245008,Milwaukee,A.O. Smith Corp,414 359 4000,United States,"15,100",Specialty Industrial Machinery,Industrials,WI,AOS,http://www.aosmith.com,53224-9508
+130 Royall Street, ,Canton,Fastenal Co,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,FAST,http://www.dunkinbrands.com,02021
+9601 South Meridian Boulevard, ,Englewood,Dish Network,303-723-1000,United States,"16,000",Entertainment,Communication Services,CO,DISH,http://www.dish.com,80112
+400 Atlantic Street, ,Stamford,Charter Communications,203-905-7801,United States,"95,100",Entertainment,Communication Services,CT,CHTR,http://corporate.charter.com,06901
+One Comcast Center,1701 JFK Boulevard,Philadelphia,Comcast Corp.,215-286-1700,United States,"190,000",Entertainment,Communication Services,PA,CMCSA,http://corporate.comcast.com,19103-2838
+3600 Las Vegas Boulevard South, ,Las Vegas,MGM Resorts International,702-693-7120,United States,"63,000",Resorts & Casinos,Consumer Cyclical,NV,MGM,http://www.mgmresorts.com,89109
+3131 Las Vegas Boulevard South, ,Las Vegas,Wynn Resorts Ltd,702-770-7555,United States,"30,200",Resorts & Casinos,Consumer Cyclical,NV,WYNN,http://www.wynnresorts.com,89109
+3355 Las Vegas Boulevard South, ,Las Vegas,Las Vegas Sands,702-414-1000,United States,"50,000",Resorts & Casinos,Consumer Cyclical,NV,LVS,http://www.sands.com,89109
+2211 H.H. Dow Way, ,Midland,Dow Inc.,989 636 1000,United States,"36,500",Chemicals,Basic Materials,MI,DOW,http://www.dow.com,48674
+1133 Innovation Way, ,Sunnyvale,Juniper Networks,408 745 2000,United States,"9,838",Communication Equipment,Technology,CA,JNPR,http://www.juniper.net,94089
+801 5th Avenue, ,Seattle,F5 Networks,206-272-5555,United States,"5,786",Software—Infrastructure,Technology,WA,FFIV,http://www.f5.com,98104
+500 West Monroe Street,Suite 4400,Chicago,Motorola Solutions Inc.,847 576 5000,United States,"17,000",Communication Equipment,Technology,IL,MSI,http://www.motorolasolutions.com,60661
+130 Royall Street, ,Canton,Arista Networks,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ANET,http://www.dunkinbrands.com,02021
+170 West Tasman Drive, ,San Jose,Cisco Systems,408 526 4000,United States,"77,500",Communication Equipment,Technology,CA,CSCO,http://www.cisco.com,95134
+7601 Penn Avenue South, ,Richfield,Best Buy Co. Inc.,612 291 1000,United States,"125,000",Specialty Retail,Consumer Cyclical,MN,BBY,http://investors.bestbuy.com/investor-relations/overview/default.aspx,55423
+2800 Post Oak Boulevard,Suite 2600,Houston,Quanta Services Inc.,713-629-7600,United States,"40,300",Engineering & Construction,Industrials,TX,PWR,http://www.quantaservices.com,77056
+1999 Bryan Street,Suite 1200,Dallas,Jacobs Engineering Group,214 583 8500,United States,"55,000",Engineering & Construction,Industrials,TX,J,http://www.jacobs.com,75201
+777 - 106th Avenue N.E., ,Bellevue,PACCAR Inc.,425 468 7400,United States,"27,000",Farm & Heavy Construction Machinery,Industrials,WA,PCAR,http://www.paccar.com,98004
+30 Isabella Street, ,Pittsburgh,Wabtec Corporation,412 825 1000,United States,"27,500",Railroads,Industrials,PA,WAB,http://www.wabtec.com,15212
+510 Lake Cook Road,Suite 100,Deerfield,Caterpillar Inc.,224-551-4000,United States,"102,300",Farm & Heavy Construction Machinery,Industrials,IL,CAT,http://www.caterpillar.com,60015
+130 Royall Street, ,Canton,Vulcan Materials,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,VMC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Martin Marietta Materials,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MLM,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Garmin Ltd.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,GRMN,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,American Express Co,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AXP,http://www.dunkinbrands.com,02021
+2500 Lake Cook Road, ,Riverwoods,Discover Financial Services,224-405-0900,United States,"17,200",Credit Services,Financial Services,IL,DFS,http://www.discover.com,60015
+1680 Capital One Drive, ,McLean,Capital One Financial,703-720-1000,United States,"52,500",Credit Services,Financial Services,VA,COF,http://www.capitalone.com,22102
+130 Royall Street, ,Canton,Synchrony Financial,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SYF,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Freeport-McMoRan Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,FCX,http://www.dunkinbrands.com,02021
+2000 Purchase Street, ,Purchase,Mastercard Inc.,914-249-2000,United States,"18,600",Credit Services,Financial Services,NY,MA,http://www.mastercard.com,10577
+663 West Highway 60,PO Box 807,Monett,Jack Henry & Associates,417-235-6652,United States,"6,717",Information Technology Services,Technology,MO,JKHY,http://www.jackhenry.com,65708
+3280 Peachtree Road,Suite 2400,Atlanta,FleetCor Technologies Inc,770-449-0479,United States,"8,700",Information Technology Services,Technology,GA,FLT,http://www.fleetcor.com,30305
+911 Panorama Trail South, ,Rochester,Paychex Inc.,585-385-6666,United States,"15,600",Staffing & Employment Services,Industrials,NY,PAYX,http://www.paychex.com,14625-2396
+3550 Lenox Road, ,Atlanta,Global Payments Inc.,770-829-8000,United States,"24,000",Specialty Business Services,Industrials,GA,GPN,http://www.globalpaymentsinc.com,30326
+601 Riverside Avenue, ,Jacksonville,Fidelity National Information Services,904-438-6000,United States,"55,000",Information Technology Services,Technology,FL,FIS,http://www.fisglobal.com,32204
+130 Royall Street, ,Canton,Visa Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,V,http://www.dunkinbrands.com,02021
+7001 East Belleview Avenue, ,Denver,Western Union Co,720-332-1000,United States,"11,500",Credit Services,Financial Services,CO,WU,http://www.westernunion.com,80237
+5 Dakota Drive,Suite 300,Lake Success,Broadridge Financial Solutions,516-472-5400,United States,"12,000",Information Technology Services,Technology,NY,BR,http://www.broadridge.com,11042
+2211 North First Street, ,San Jose,PayPal,408-967-1000,United States,"23,200",Credit Services,Financial Services,CA,PYPL,http://www.paypal.com,95131
+255 Fiserv Drive, ,Brookfield,Fiserv Inc,262-879-5000,United States,"44,000",Information Technology Services,Technology,WI,FISV,http://www.fiserv.com,53045
+Building 100,207 High Point Drive,Victor,Constellation Brands,585 678 7100,United States,"9,000",Beverages—Wineries & Distilleries,Consumer Defensive,NY,STZ,http://www.cbrands.com,14564
+130 Royall Street, ,Canton,Brown-Forman Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,BF.B,http://www.dunkinbrands.com,02021
+500 West Madison Street,Suite 2800,Chicago,LKQ Corporation,312 621 1950,United States,"51,000",Auto Parts,Consumer Cyclical,IL,LKQ,http://www.lkqcorp.com,60661
+130 Royall Street, ,Canton,Comerica Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CMA,http://www.dunkinbrands.com,02021
+800 Nicollet Mall, ,Minneapolis,U.S. Bancorp,651-466-3000,United States,"70,000",Banks—Regional,Financial Services,MN,USB,http://www.usbank.com,55402
+Bank of America Corporate Center,100 North Tryon Street,Charlotte,Bank of America Corp,704-386-5681,United States,"211,225",Banks—Diversified,Financial Services,NC,BAC,http://www.bankofamerica.com,28255
+420 Montgomery Street, ,San Francisco,Wells Fargo,866-249-3302,United States,"274,900",Banks—Diversified,Financial Services,CA,WFC,http://www.wellsfargo.com,94104
+130 Royall Street, ,Canton,Citigroup Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,C,http://www.dunkinbrands.com,02021
+383 Madison Avenue, ,New York,JPMorgan Chase & Co.,212-270-6000,United States,"256,358",Banks—Diversified,Financial Services,NY,JPM,http://www.jpmorganchase.com,10179
+200 South Wilcox Drive, ,Kingsport,Eastman Chemical,423 229 2000,United States,"14,500",Chemicals,Basic Materials,TN,EMN,http://www.eastman.com,37662
+14185 Dallas Parkway,Suite 300,Dallas,Copart Inc,972 391 5000,United States,"7,600",Specialty Business Services,Industrials,TX,CPRT,http://www.copart.com,75254
+6800 Cintas Boulevard,PO Box 625737,Cincinnati,Cintas Corporation,513 459 1200,United States,"40,000",Specialty Business Services,Industrials,OH,CTAS,http://www.cintas.com,45262
+130 Royall Street, ,Canton,Walgreens Boots Alliance,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WBA,http://www.dunkinbrands.com,02021
+80 Park Plaza, ,Newark,Public Service Enterprise Group (PSEG),973-430-7000,United States,"12,992",Utilities—Diversified,Utilities,NJ,PEG,http://www.pseg.com,07102
+"30 Ivan Allen Jr. Boulevard, N.W.", ,Atlanta,Southern Company,404-506-5000,United States,"27,943",Utilities—Regulated Electric,Utilities,GA,SO,http://www.southerncompany.com,30308
+76 South Main Street, ,Akron,FirstEnergy Corp,800-736-3402,United States,"12,000",Utilities—Diversified,Utilities,OH,FE,http://www.firstenergycorp.com,44308
+1200 Main Street, ,Kansas City,Evergy,816-556-2200,United States,"4,617",Utilities—Regulated Electric,Utilities,MO,EVRG,http://www.evergyinc.com,64105
+639 Loyola Avenue, ,New Orleans,Entergy Corp.,504-576-4000,United States,"13,600",Utilities—Diversified,Utilities,LA,ETR,http://www.entergy.com,70113
+2244 Walnut Grove Avenue,PO Box 976,Rosemead,Edison Int'l,626-302-2222,United States,"12,937",Utilities—Regulated Electric,Utilities,CA,EIX,http://www.edison.com,91770
+550 South Tryon Street, ,Charlotte,Duke Energy,704-382-3853,United States,"29,000",Utilities—Regulated Electric,Utilities,NC,DUK,http://www.duke-energy.com,28202-1803
+120 Tredegar Street, ,Richmond,Dominion Energy,804-819-2000,United States,"19,100",Utilities—Diversified,Utilities,VA,D,http://www.dominionenergy.com,23219
+130 Royall Street, ,Canton,PPL Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PPL,http://www.dunkinbrands.com,02021
+1 Riverside Plaza, ,Columbus,American Electric Power,614-716-1000,United States,"17,408",Utilities—Regulated Electric,Utilities,OH,AEP,http://www.aep.com,43215-2373
+130 Royall Street, ,Canton,Consolidated Edison,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ED,http://www.dunkinbrands.com,02021
+231 West Michigan Street, ,Milwaukee,WEC Energy Group,414-221-2345,United States,"7,500",Utilities—Regulated Electric,Utilities,WI,WEC,http://www.wecenergygroup.com,53203
+130 Royall Street, ,Canton,Alliant Energy Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,LNT,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Emerson Electric Company,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,EMR,http://www.dunkinbrands.com,02021
+1100 Cassatt Road, ,Berwyn,AMETEK Inc.,610 647 2121,United States,"18,100",Specialty Industrial Machinery,Industrials,PA,AME,http://www.ametek.com,19312-1177
+1201 South 2nd Street, ,Milwaukee,Rockwell Automation Inc.,414 382 2000,United States,"23,000",Specialty Industrial Machinery,Industrials,WI,ROK,http://www.rockwellautomation.com,53204
+130 Royall Street, ,Canton,Amphenol Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,APH,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Corning Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,GLW,http://www.dunkinbrands.com,02021
+5420 Wade Park Boulevard,Suite 206,Raleigh,Vontier,984 247 8308,United States,"8,400",Scientific & Technical Instruments,Technology,NC,VNT,http://www.vontier.com,27607
+3 Overlook Point, ,Lincolnshire,Zebra Technologies,847 634 6700,United States,"8,200",Communication Equipment,Technology,IL,ZBRA,http://www.zebra.com,60069
+130 Royall Street, ,Canton,FLIR Systems,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,FLIR,http://www.dunkinbrands.com,02021
+1400 Fountaingrove Parkway, ,Santa Rosa,Keysight Technologies,800 829 4444,United States,"13,800",Scientific & Technical Instruments,Technology,CA,KEYS,http://www.keysight.com,95403-1738
+50 Old Webster Road, ,Oxford,IPG Photonics Corp.,508 373 1100,United States,"5,960",Semiconductor Equipment & Materials,Technology,MA,IPGP,http://www.ipgphotonics.com,01540
+130 Royall Street, ,Canton,TE Connectivity Ltd.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TEL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Republic Services Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,RSG,http://www.dunkinbrands.com,02021
+"2170 Piedmont Road, NE", ,Atlanta,Rollins Inc.,404 888 2000,United States,"14,952",Personal Services,Consumer Cyclical,GA,ROL,http://www.rollins.com,30324
+1001 Fannin Street,Suite 4000,Houston,Waste Management Inc.,713-512-6200,United States,"44,900",Waste Management,Industrials,TX,WM,http://www.wm.com,77002
+130 Royall Street, ,Canton,The Mosaic Company,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MOS,http://www.dunkinbrands.com,02021
+2929 Walnut Street, ,Philadelphia,FMC Corporation,215-299-6000,United States,"6,400",Agricultural Inputs,Basic Materials,PA,FMC,http://www.fmc.com,19104
+4 Parkway North,Suite 400,Deerfield,CF Industries Holdings Inc,847 405 2400,United States,"3,000",Agricultural Inputs,Basic Materials,IL,CF,http://www.cfindustries.com,60015
+974 Centre Road, ,Wilmington,Corteva,302 774 1000,United States,"21,000",Agricultural Inputs,Basic Materials,DE,CTVA,http://www.corteva.com,19805
+130 Royall Street, ,Canton,Cboe Global Markets,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CBOE,http://www.dunkinbrands.com,02021
+55 Hudson Yards,Floor 15,New York,MarketAxess,212-813-6000,United States,561,Capital Markets,Financial Services,NY,MKTX,http://www.marketaxess.com,10001
+130 Royall Street, ,Canton,MSCI Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MSCI,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,"Nasdaq, Inc.",781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,NDAQ,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Moody's Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MCO,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Intercontinental Exchange,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ICE,http://www.dunkinbrands.com,02021
+20 South Wacker Drive, ,Chicago,CME Group Inc.,312-930-1000,United States,"4,360",Financial Data & Stock Exchanges,Financial Services,IL,CME,http://www.cmegroup.com,60606
+55 Water Street, ,New York,"S&P Global, Inc.",212-438-1000,United States,"22,500",Financial Data & Stock Exchanges,Financial Services,NY,SPGI,http://www.spglobal.com,10041
+130 Royall Street, ,Canton,Sysco Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SYY,http://www.dunkinbrands.com,02021
+1014 Vine Street, ,Cincinnati,Kroger Co.,513 762 4000,United States,"500,000",Grocery Stores,Consumer Defensive,OH,KR,http://www.thekrogerco.com,45202
+Three Lincoln Centre,Suite 1800 5430 LBJ Freeway,Dallas,Atmos Energy,972-934-9227,United States,"4,776",Utilities—Regulated Gas,Utilities,TX,ATO,http://www.atmosenergy.com,75240
+100 Mission Ridge, ,Goodlettsville,Dollar General,615 855 4000,United States,"143,000",Discount Stores,Consumer Defensive,TN,DG,http://www.dollargeneral.com,37072
+500 Volvo Parkway, ,Chesapeake,Dollar Tree,757 321 5000,United States,"56,900",Discount Stores,Consumer Defensive,VA,DLTR,http://www.dollartree.com,23320
+130 Royall Street, ,Canton,Target Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TGT,http://www.dunkinbrands.com,02021
+6363 South Fiddlerâs Green Circle,Suite 800,Greenwood Village,Newmont Corporation,303-863-7414,United States,"16,600",Gold,Basic Materials,CO,NEM,http://www.newmont.com,80111
+6555 State Highway 161, ,Irving,McKesson Corp.,972 446 4800,United States,"60,000",Medical Distribution,Healthcare,TX,MCK,http://www.mckesson.com,75039
+130 Royall Street, ,Canton,AmerisourceBergen Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ABC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Waters Corporation,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WAT,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Cardinal Health Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CAH,http://www.dunkinbrands.com,02021
+430 East 29th Street,14th Floor,New York,Bristol-Myers Squibb,212 546 4000,United States,"30,000",Drug Manufacturers—General,Healthcare,NY,BMY,http://www.bms.com,10016
+130 Royall Street, ,Canton,Henry Schein,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HSIC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Zimmer Biomet,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ZBH,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Abbott Laboratories,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ABT,http://www.dunkinbrands.com,02021
+250 Campus Drive, ,Marlborough,Hologic,508 263 2900,United States,"6,478",Medical Instruments & Supplies,Healthcare,MA,HOLX,http://www.hologic.com,01752
+1020 Kifer Road, ,Sunnyvale,Intuitive Surgical Inc.,408 523 2100,United States,"7,326",Medical Instruments & Supplies,Healthcare,CA,ISRG,http://www.intuitive.com,94086
+130 Royall Street, ,Canton,Agilent Technologies Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,A,http://www.dunkinbrands.com,02021
+3100 Hansen Way, ,Palo Alto,Varian Medical Systems,650 493 4000,United States,"10,000",Medical Instruments & Supplies,Healthcare,CA,VAR,http://www.varian.com,94304
+6340 Sequence Drive, ,San Diego,DexCom,858 200 0200,United States,"3,900",Diagnostics & Research,Healthcare,CA,DXCM,http://www.dexcom.com,92121
+130 Royall Street, ,Canton,ResMed,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,RMD,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,IDEXX Laboratories,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,IDXX,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,ABIOMED Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ABMD,http://www.dunkinbrands.com,02021
+940 Winter Street, ,Waltham,PerkinElmer,781 663 6900,United States,"13,000",Diagnostics & Research,Healthcare,MA,PKI,http://www.perkinelmer.com,02451
+130 Royall Street, ,Canton,Danaher Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,DHR,http://www.dunkinbrands.com,02021
+300 Boston Scientific Way, ,Marlborough,Boston Scientific,508-683-4000,United States,"36,000",Medical Devices,Healthcare,MA,BSX,http://www.bostonscientific.com,01752-1234
+130 Royall Street, ,Canton,Teleflex,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TFX,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Medtronic plc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MDT,http://www.dunkinbrands.com,02021
+One Edwards Way, ,Irvine,Edwards Lifesciences,949 250 2500,United States,"13,900",Medical Devices,Healthcare,CA,EW,http://www.edwards.com,92614
+One Baxter Parkway, ,Deerfield,Baxter International Inc.,224 948 2000,United States,"50,000",Medical Instruments & Supplies,Healthcare,IL,BAX,http://www.baxter.com,60015
+2825 Airview Boulevard, ,Kalamazoo,Stryker Corp.,269 385 2600,United States,"40,000",Medical Devices,Healthcare,MI,SYK,http://www.stryker.com,49002
+130 Royall Street, ,Canton,STERIS plc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,STE,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Becton Dickinson,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,BDX,http://www.dunkinbrands.com,02021
+2000 16th Street, ,Denver,DaVita Inc.,720 631 2100,United States,"65,000",Medical Care Facilities,Healthcare,CO,DVA,http://www.davita.com,80202
+One Park Plaza, ,Nashville,HCA Healthcare,615 344 9551,United States,"210,000",Medical Care Facilities,Healthcare,TN,HCA,http://www.hcahealthcare.com,37203
+Universal Corporate Center,367 South Gulph Road PO Box 61558,King Of Prussia,Universal Health Services,610-768-3300,United States,"90,000",Medical Care Facilities,Healthcare,PA,UHS,http://www.uhsinc.com,19406
+4500 Dorr Street, ,Toledo,Welltower Inc.,419-247-2800,United States,443,REIT—Healthcare Facilities,Real Estate,OH,WELL,http://www.welltower.com,43615
+353 North Clark Street,Suite 3300,Chicago,Ventas Inc,877-483-6827,United States,516,REIT—Healthcare Facilities,Real Estate,IL,VTR,http://www.ventasreit.com,60654
+1920 Main Street,Suite 1200,Irvine,Healthpeak Properties,949-407-0700,United States,204,REIT—Healthcare Facilities,Real Estate,CA,PEAK,http://www.healthpeak.com,92614
+130 Royall Street, ,Canton,Laboratory Corp. of America Holding,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,LH,http://www.dunkinbrands.com,02021
+One CVS Drive, ,Woonsocket,CVS Health,401-765-1500,United States,"290,000",Healthcare Plans,Healthcare,RI,CVS,http://www.cvshealth.com,02895
+500 Plaza Drive, ,Secaucus,Quest Diagnostics,973 520 2700,United States,"47,000",Diagnostics & Research,Healthcare,NJ,DGX,http://www.questdiagnostics.com,07094
+130 Royall Street, ,Canton,West Pharmaceutical Services,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WST,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,The Cooper Companies,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,COO,http://www.dunkinbrands.com,02021
+2820 Orchard Parkway, ,San Jose,Align Technology,408 470 1000,United States,"14,530",Medical Devices,Healthcare,CA,ALGN,http://www.aligntech.com,95134
+130 Royall Street, ,Canton,Dentsply Sirona,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,XRAY,http://www.dunkinbrands.com,02021
+2800 Rockcreek Parkway, ,North Kansas City,Cerner,816-221-1024,United States,"27,400",Health Information Services,Healthcare,MO,CERN,http://www.cerner.com,64117-2551
+No. 1 Leggett Road, ,Carthage,Leggett & Platt,417 358 8131,United States,"22,000","Furnishings, Fixtures & Appliances",Consumer Cyclical,MO,LEG,http://www.leggett.com,64836
+160 South Industrial Boulevard, ,Calhoun,Mohawk Industries,706 629 7721,United States,"41,800","Furnishings, Fixtures & Appliances",Consumer Cyclical,GA,MHK,http://www.mohawkind.com,30701
+1000 Loweâs Boulevard, ,Mooresville,Lowe's Cos.,704 758 1000,United States,"300,000",Home Improvement Retail,Consumer Cyclical,NC,LOW,http://www.lowes.com,28117
+2455 Paces Ferry Road, ,Atlanta,Home Depot,770-433-8211,United States,"400,000",Home Improvement Retail,Consumer Cyclical,GA,HD,http://www.homedepot.com,30339
+700 Northwest 107th Avenue, ,Miami,Lennar Corp.,305-559-4000,United States,"10,106",Residential Construction,Consumer Cyclical,FL,LEN,http://www.lennar.com,33172
+130 Royall Street, ,Canton,PulteGroup,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PHM,http://www.dunkinbrands.com,02021
+Plaza America Tower I,Suite 500 11700 Plaza America Drive,Reston,"NVR, Inc.",703-956-4000,United States,"5,700",Residential Construction,Consumer Cyclical,VA,NVR,http://www.nvrinc.com,20190
+1341 Horton Circle, ,Arlington,D. R. Horton,817-390-8200,United States,"8,916",Residential Construction,Consumer Cyclical,TX,DHI,http://www.drhorton.com,76011
+4747 Bethesda Avenue,Suite 1300,Bethesda,Host Hotels & Resorts,240-744-1000,United States,175,REIT—Hotel & Motel,Real Estate,MD,HST,http://www.hosthotels.com,20817
+130 Royall Street, ,Canton,Carnival Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CCL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Marriott Int'l.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MAR,http://www.dunkinbrands.com,02021
+7665 Corporate Center Drive, ,Miami,Norwegian Cruise Line Holdings,305 436 4000,United States,"36,000",Travel Services,Consumer Cyclical,FL,NCLH,http://www.nclhltdinvestor.com,33126
+130 Royall Street, ,Canton,Royal Caribbean Group,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,RCL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Hilton Worldwide Holdings Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HLT,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Whirlpool Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WHR,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Kimberly-Clark,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,KMB,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,The Clorox Company,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CLX,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Colgate-Palmolive,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Church & Dwight,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CHD,http://www.dunkinbrands.com,02021
+6655 Peachtree Dunwoody Road, ,Atlanta,Newell Brands,770 418 7000,United States,"30,000",Household & Personal Products,Consumer Defensive,GA,NWL,http://www.newellbrands.com,30328
+2884 Sand Hill Road, ,Menlo Park,Robert Half International,650 234 6000,United States,"16,000",Staffing & Employment Services,Industrials,CA,RHI,http://www.roberthalf.com,94025
+130 Royall Street, ,Canton,Walmart,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WMT,http://www.dunkinbrands.com,02021
+999 Lake Drive, ,Issaquah,Costco Wholesale Corp.,425 313 8100,United States,"156,000",Discount Stores,Consumer Defensive,WA,COST,http://www.costco.com,98027
+130 Royall Street, ,Canton,DXC Technology,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,DXC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Accenture plc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ACN,http://www.dunkinbrands.com,02021
+Glenpointe Centre West,500 Frank West Burr Boulevard,Teaneck,Cognizant Technology Solutions,201-801-0233,United States,"281,200",Information Technology Services,Technology,NJ,CTSH,http://www.cognizant.com,07666
+56 Top Gallant Road,PO Box 10212,Stamford,Gartner Inc,203-316-1111,United States,"16,724",Information Technology Services,Technology,CT,IT,http://www.gartner.com,06902
+130 Royall Street, ,Canton,Leidos Holdings,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,LDOS,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,International Business Machines,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,IBM,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,NRG Energy,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,NRG,http://www.dunkinbrands.com,02021
+4300 Wilson Boulevard,11th Floor,Arlington,AES Corp,703-522-1315,United States,"8,000",Utilities—Diversified,Utilities,VA,AES,http://www.aes.com,22203
+6901 Professional Parkway East,Suite 200,Sarasota,Roper Technologies,941 556 2601,United States,"16,460",Specialty Industrial Machinery,Industrials,FL,ROP,http://www.ropertech.com,34240
+3M Center, ,St. Paul,3M Company,651-733-1110,United States,"96,000",Specialty Industrial Machinery,Industrials,MN,MMM,http://www.3m.com,55144-1000
+5 Necco Street, ,Boston,General Electric,617-443-3000,United States,"205,000",Specialty Industrial Machinery,Industrials,MA,GE,http://www.ge.com,02210
+130 Royall Street, ,Canton,Honeywell Int'l Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HON,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Air Products & Chemicals Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,APD,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Otis Worldwide,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,OTIS,http://www.dunkinbrands.com,02021
+6920 Seaway Boulevard, ,Everett,Fortive Corp,425 446 5000,United States,"25,000",Scientific & Technical Instruments,Technology,WA,FTV,http://www.fortive.com,98203
+130 Royall Street, ,Canton,Flowserve Corporation,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,FLS,http://www.dunkinbrands.com,02021
+1000 Stanley Drive, ,New Britain,Stanley Black & Decker,860-225-5111,United States,"59,438",Tools & Accessories,Industrials,CT,SWK,http://www.stanleyblackanddecker.com,06053
+2801 80th Street, ,Kenosha,Snap-on,262 656 5200,United States,"12,800",Tools & Accessories,Industrials,WI,SNA,http://www.snapon.com,53143
+100 Grainger Parkway, ,Lake Forest,Grainger (W.W.) Inc.,847 535 1000,United States,"23,800",Industrial Distribution,Industrials,IL,GWW,http://www.grainger.com,60045-5201
+6035 Parkland Boulevard, ,Cleveland,Parker-Hannifin,216 896 3000,United States,"50,520",Specialty Industrial Machinery,Industrials,OH,PH,http://www.parker.com,44124-4141
+3005 Highland Parkway, ,Downers Grove,Dover Corporation,630-541-1540,United States,"24,000",Specialty Industrial Machinery,Industrials,IL,DOV,http://www.dovercorporation.com,60515
+155 Harlem Avenue, ,Glenview,Illinois Tool Works,847 724 7500,United States,"45,000",Specialty Industrial Machinery,Industrials,IL,ITW,http://www.itw.com,60025-4075
+130 Royall Street, ,Canton,Pentair plc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PNR,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Ingersoll Rand,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,IR,http://www.dunkinbrands.com,02021
+1 International Drive, ,Rye Brook,Xylem Inc.,914 323 5700,United States,"16,000",Specialty Industrial Machinery,Industrials,NY,XYL,http://www.xylem.com,10573
+500 Jackson Street,Box 3005,Columbus,Cummins Inc.,812 377 5000,United States,"61,600",Specialty Industrial Machinery,Industrials,IN,CMI,http://www.cumminseurope.com/,47202-3005
+1925 West Field Court,Suite 200,Lake Forest,IDEX Corporation,847 498 7070,United States,"7,000",Specialty Industrial Machinery,Industrials,IL,IEX,http://www.idexcorp.com,60045-4824
+8711 River Crossing Boulevard, ,Indianapolis,Duke Realty Corp,317-808-6000,United States,400,REIT—Industrial,Real Estate,IN,DRE,http://www.dukerealty.com,46240
+Pier 1,Bay 1,San Francisco,Prologis,415-394-9000,United States,"1,712",REIT—Industrial,Real Estate,CA,PLD,http://www.prologis.com,94111
+130 Royall Street, ,Canton,Marsh & McLennan,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MMC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Arthur J. Gallagher & Co.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AJG,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Willis Towers Watson,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WLTW,http://www.dunkinbrands.com,02021
+1185 Avenue of the Americas,40th Floor,New York,Hess Corporation,212 997 8500,United States,"1,775",Oil & Gas E&P,Energy,NY,HES,http://www.hess.com,10036
+6001 Bollinger Canyon Road, ,San Ramon,Chevron Corp.,925 842 1000,United States,"48,200",Oil & Gas Integrated,Energy,CA,CVX,http://www.chevron.com,94583-2324
+5959 Las Colinas Boulevard, ,Irving,Exxon Mobil Corp.,972-940-6000,United States,"74,900",Oil & Gas Integrated,Energy,TX,XOM,http://corporate.exxonmobil.com,75039-2298
+130 Royall Street, ,Canton,Verizon Communications,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,VZ,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,AT&T Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,T,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Take-Two Interactive,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TTWO,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Electronic Arts,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,EA,http://www.dunkinbrands.com,02021
+3100 Ocean Park Boulevard, ,Santa Monica,Activision Blizzard,310 255 2000,United States,"9,080",Electronic Gaming & Multimedia,Communication Services,CA,ATVI,http://www.activisionblizzard.com,90405
+1600 Amphitheatre Parkway, ,Mountain View,Alphabet Inc. (Class C),650-253-0000,United States,"127,498",Internet Content & Information,Communication Services,CA,GOOG,http://www.abc.xyz,94043
+1355 Market Street,Suite 900,San Francisco,"Twitter, Inc.",415-222-9670,United States,"5,200",Internet Content & Information,Communication Services,CA,TWTR,http://www.twitter.com,94103
+1601 Willow Road, ,Menlo Park,"Facebook, Inc.",650-543-4800,United States,"52,534",Internet Content & Information,Communication Services,CA,FB,http://investor.fb.com,94025
+1600 Amphitheatre Parkway, ,Mountain View,Alphabet Inc. (Class A),650-253-0000,United States,"127,498",Internet Content & Information,Communication Services,CA,GOOGL,http://www.abc.xyz,94043
+800 Connecticut Avenue, ,Norwalk,Booking Holdings Inc,203-299-8000,United States,"25,000",Travel Services,Consumer Cyclical,CT,BKNG,http://www.bookingholdings.com,06854
+117 Adams Street, ,Brooklyn,Etsy,718 880 3660,United States,"1,292",Internet Retail,Consumer Cyclical,NY,ETSY,http://www.etsy.com,11201
+410 Terry Avenue North, ,Seattle,Amazon.com Inc.,206-266-1000,United States,"798,000",Internet Retail,Consumer Cyclical,WA,AMZN,http://www.amazon.com,98109-5210
+1111 Expedia Group Way West, ,Seattle,Expedia Group,206-481-7200,United States,"25,400",Travel Services,Consumer Cyclical,WA,EXPE,http://www.expediagroup.com,98119
+2025 Hamilton Avenue, ,San Jose,eBay Inc.,408-376-7008,United States,"13,300",Internet Retail,Consumer Cyclical,CA,EBAY,http://www.ebayinc.com,95125
+130 Royall Street, ,Canton,Automatic Data Processing,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ADP,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Verisign Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,VRSN,http://www.dunkinbrands.com,02021
+145 Broadway, ,Cambridge,Akamai Technologies Inc,617-444-3000,United States,"7,951",Software—Infrastructure,Technology,MA,AKAM,http://www.akamai.com,02142
+130 Royall Street, ,Canton,Goldman Sachs Group,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,GS,http://www.dunkinbrands.com,02021
+211 Main Street, ,San Francisco,Charles Schwab Corporation,415-667-7000,United States,"22,100",Capital Markets,Financial Services,CA,SCHW,http://www.schwab.com,94105
+880 Carillon Parkway, ,St. Petersburg,Raymond James Financial Inc.,727-567-1000,United States,"14,200",Capital Markets,Financial Services,FL,RJF,http://www.raymondjames.com,33716
+1585 Broadway, ,New York,Morgan Stanley,212-761-4000,United States,"63,051",Capital Markets,Financial Services,NY,MS,http://www.morganstanley.com,10036
+109 Northpark Boulevard, ,Covington,Pool Corporation,985 892 5521,United States,"4,500",Leisure,Consumer Cyclical,LA,POOL,http://www.poolcorp.com,70433-5001
+1027 Newport Avenue,PO Box 1059,Pawtucket,Hasbro Inc.,401 431 8697,United States,"5,600",Leisure,Consumer Cyclical,RI,HAS,http://www.hasbro.com,02861-1059
+1 Fountain Square, ,Chattanooga,Unum Group,423-294-1011,United States,"10,300",Insurance—Life,Financial Services,TN,UNM,http://www.unum.com,37402
+130 Royall Street, ,Canton,MetLife Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MET,http://www.dunkinbrands.com,02021
+711 High Street, ,Des Moines,Principal Financial Group,515-247-5111,United States,"17,601",Insurance—Diversified,Financial Services,IA,PFG,http://www.principal.com,50392
+130 Royall Street, ,Canton,Prudential Financial,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PRU,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,AFLAC Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AFL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Globe Life Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,GL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Bio-Rad Laboratories,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,BIO,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Mettler Toledo,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MTD,http://www.dunkinbrands.com,02021
+168 Third Avenue, ,Waltham,Thermo Fisher Scientific,781 622 1000,United States,"75,000",Diagnostics & Research,Healthcare,MA,TMO,http://www.thermofisher.com,02451
+130 Royall Street, ,Canton,IQVIA Holdings Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,IQV,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Illumina Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ILMN,http://www.dunkinbrands.com,02021
+Centene Plaza,7700 Forsyth Boulevard,St. Louis,Centene Corporation,314-725-4477,United States,"56,600",Healthcare Plans,Healthcare,MO,CNC,http://www.centene.com,63105
+Humana Building,500 West Main Street,Louisville,Humana Inc.,502-580-1000,United States,"46,000",Healthcare Plans,Healthcare,KY,HUM,http://www.humana.com,40202
+UnitedHealth Group Center,9900 Bren Road East,Minnetonka,UnitedHealth Group Inc.,952-936-1300,United States,"325,000",Healthcare Plans,Healthcare,MN,UNH,http://www.unitedhealthgroup.com,55343
+900 Cottage Grove Road, ,Bloomfield,CIGNA Corp.,860-226-6000,United States,"73,700",Healthcare Plans,Healthcare,CT,CI,http://www.cigna.com,06002
+130 Royall Street, ,Canton,Anthem,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ANTM,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Ball Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,BLL,http://www.dunkinbrands.com,02021
+100 Winchester Circle, ,Los Gatos,Netflix Inc.,408-540-3700,United States,"8,600",Entertainment,Communication Services,CA,NFLX,http://www.netflix.com,95032
+130 Royall Street, ,Canton,The Walt Disney Company,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,DIS,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Fox Corporation (Class A),781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,FOXA,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,ViacomCBS,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,VIAC,http://www.dunkinbrands.com,02021
+1211 Avenue of the Americas, ,New York,Fox Corporation (Class B),212-852-7000,United States,"9,000",Broadcasting,Communication Services,NY,FOX,http://www.foxcorporation.com,10036
+130 Royall Street, ,Canton,Live Nation Entertainment,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,LYV,http://www.dunkinbrands.com,02021
+3555 Farnam Street, ,Omaha,Berkshire Hathaway,402-346-1400,United States,"391,500",Insurance—Diversified,Financial Services,NE,BRK.B,http://www.berkshirehathaway.com,68131
+488 8th Avenue, ,San Diego,Sempra Energy,619-696-2000,United States,"18,000",Utilities—Diversified,Utilities,CA,SRE,http://www.sempra.com,92101
+1111 Louisiana Street, ,Houston,CenterPoint Energy,713-207-1111,United States,"14,262",Utilities—Regulated Gas,Utilities,TX,CNP,http://www.centerpointenergy.com,77002
+700 Universe Boulevard, ,Juno Beach,NextEra Energy,561-694-4000,United States,"14,800",Utilities—Regulated Electric,Utilities,FL,NEE,http://www.nexteraenergy.com,33408
+130 Royall Street, ,Canton,NiSource Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,NI,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Xcel Energy Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,XEL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Pinnacle West Capital,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PNW,http://www.dunkinbrands.com,02021
+10 South Dearborn Street,48th Floor PO Box 805379,Chicago,Exelon Corp.,800-483-3220,United States,"32,713",Utilities—Diversified,Utilities,IL,EXC,http://www.exeloncorp.com,60680
+130 Royall Street, ,Canton,CMS Energy,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CMS,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,DTE Energy Co.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,DTE,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Eversource Energy,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ES,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Ameren Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AEE,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Assurant,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AIZ,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Loews Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,L,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Lincoln National,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,LNC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Vornado Realty Trust,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,VNO,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Boston Properties,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,BXP,http://www.dunkinbrands.com,02021
+420 Lexington Avenue, ,New York,SL Green Realty,212-594-2700,United States,"1,033",REIT—Office,Real Estate,NY,SLG,http://www.slgreen.com,10170
+26 North Euclid Avenue, ,Pasadena,Alexandria Real Estate Equities,626-578-0777,United States,439,REIT—Office,Real Estate,CA,ARE,http://www.are.com,91101
+130 Royall Street, ,Canton,Halliburton Co.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HAL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Schlumberger Ltd.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SLB,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,TechnipFMC,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,FTI,http://www.dunkinbrands.com,02021
+17021 Aldine Westfield Road, ,Houston,Baker Hughes Co,713 439 8600,United States,"58,000",Oil & Gas Equipment & Services,Energy,TX,BKR,http://www.bakerhughes.com,77073-5101
+7909 Parkwood Circle Drive, ,Houston,National Oilwell Varco Inc.,713 346 7500,United States,"33,810",Oil & Gas Equipment & Services,Energy,TX,NOV,http://www.nov.com,77036-6565
+130 Royall Street, ,Canton,ConocoPhillips,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,COP,http://www.dunkinbrands.com,02021
+500 West Texas Avenue,Suite 1200,Midland,Diamondback Energy,432 221 7400,United States,712,Oil & Gas E&P,Energy,TX,FANG,http://www.diamondbackenergy.com,79701
+130 Royall Street, ,Canton,Devon Energy,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,DVN,http://www.dunkinbrands.com,02021
+1111 Bagby Street,Sky Lobby 2,Houston,EOG Resources,713 651 7000,United States,"2,900",Oil & Gas E&P,Energy,TX,EOG,http://www.eogresources.com,77002
+5555 San Felipe Street, ,Houston,Marathon Oil Corp.,713 629 6600,United States,"2,000",Oil & Gas E&P,Energy,TX,MRO,http://www.marathonoil.com,77056-2723
+Three Memorial City Plaza,Suite 1400 840 Gessner Road,Houston,Cabot Oil & Gas,281 589 4600,United States,547,Oil & Gas E&P,Energy,TX,COG,http://www.cabotog.com,77024
+777 Hidden Ridge, ,Irving,Pioneer Natural Resources,972 444 9001,United States,"2,323",Oil & Gas E&P,Energy,TX,PXD,http://www.pxd.com,75039
+One Post Oak Central,Suite 100 2000 Post Oak Boulevard,Houston,Apache Corporation,713 296 6000,United States,"3,163",Oil & Gas E&P,Energy,TX,APA,http://www.apachecorp.com,77056
+5 Greenway Plaza,Suite 110,Houston,Occidental Petroleum,713 215 7000,United States,"14,400",Oil & Gas E&P,Energy,TX,OXY,http://www.oxy.com,77046-0521
+130 Royall Street, ,Canton,Concho Resources,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CXO,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Marathon Petroleum,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MPC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,HollyFrontier Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HFC,http://www.dunkinbrands.com,02021
+One Valero Way, ,San Antonio,Valero Energy,210 345 2000,United States,"10,222",Oil & Gas Refining & Marketing,Energy,TX,VLO,http://www.valero.com,78249
+2331 CityWest Boulevard, ,Houston,Phillips 66,281 293 6600,United States,"14,500",Oil & Gas Refining & Marketing,Energy,TX,PSX,http://www.phillips66.com,77042
+130 Royall Street, ,Canton,Kinder Morgan,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,KMI,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,ONEOK,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,OKE,http://www.dunkinbrands.com,02021
+One Williams Center,Suite 4700,Tulsa,Williams Companies,918-573-2000,United States,"4,812",Oil & Gas Midstream,Energy,OK,WMB,http://co.williams.com,74172
+130 Royall Street, ,Canton,McCormick & Co.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MKC,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,JM Smucker,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SJM,http://www.dunkinbrands.com,02021
+1 Campbell Place, ,Camden,Campbell Soup,856 342 4800,United States,"14,500",Packaged Foods,Consumer Defensive,NJ,CPB,http://www.campbellsoupcompany.com,08103-1799
+130 Royall Street, ,Canton,Mondelez International,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MDLZ,http://www.dunkinbrands.com,02021
+222 West Merchandise Mart Plaza,Suite 1300,Chicago,Conagra Brands,312 549 5000,United States,"16,500",Packaged Foods,Consumer Defensive,IL,CAG,http://www.conagrabrands.com,60654
+130 Royall Street, ,Canton,Tyson Foods,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TSN,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Kraft Heinz Co,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,KHC,http://www.dunkinbrands.com,02021
+1 Hormel Place, ,Austin,Hormel Foods Corp.,507 437 5611,United States,"18,700",Packaged Foods,Consumer Defensive,MN,HRL,http://www.hormelfoods.com,55912
+One Kellogg Square, ,Battle Creek,Kellogg Co.,269-961-2000,United States,"31,000",Packaged Foods,Consumer Defensive,MI,K,http://www.kelloggcompany.com,49016-3599
+Number One General Mills Boulevard, ,Minneapolis,General Mills,763 764 7600,United States,"35,000",Packaged Foods,Consumer Defensive,MN,GIS,http://www.generalmills.com,55426
+19 East Chocolate Avenue, ,Hershey,The Hershey Company,717 534 4200,United States,"14,520",Confectioners,Consumer Defensive,PA,HSY,http://www.thehersheycompany.com,17033
+599 South Rivershore Lane, ,Eagle,Lamb Weston Holdings Inc,208 938 1047,United States,"7,700",Packaged Foods,Consumer Defensive,ID,LW,http://www.lambweston.com,83616
+2415 Cascade Pointe Boulevard, ,Charlotte,Sealed Air,980 221 3235,United States,"16,500",Packaging & Containers,Consumer Cyclical,NC,SEE,http://www.sealedair.com,28208
+130 Royall Street, ,Canton,WestRock,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WRK,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Amcor plc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AMCR,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Avery Dennison Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AVY,http://www.dunkinbrands.com,02021
+6400 Poplar Avenue, ,Memphis,International Paper,901-419-9000,United States,"50,000",Packaging & Containers,Consumer Cyclical,TN,IP,http://www.internationalpaper.com,38197
+1 North Field Court, ,Lake Forest,Packaging Corporation of America,847-482-3000,United States,"15,500",Packaging & Containers,Consumer Cyclical,IL,PKG,http://www.packagingcorp.com,60045
+One Procter & Gamble Plaza, ,Cincinnati,Procter & Gamble,513 983 1100,United States,"99,000",Household & Personal Products,Consumer Defensive,OH,PG,http://www.pginvestor.com,45202
+767 Fifth Avenue, ,New York,Estée Lauder Companies,212 572 4200,United States,"48,000",Household & Personal Products,Consumer Defensive,NY,EL,http://www.elcompanies.com,10153
+1 North Waukegan Road, ,North Chicago,AbbVie Inc.,847 932 7900,United States,"47,000",Drug Manufacturers—General,Healthcare,IL,ABBV,http://www.abbvie.com,60064
+One Johnson & Johnson Plaza, ,New Brunswick,Johnson & Johnson,732 524 0400,United States,"132,200",Drug Manufacturers—General,Healthcare,NJ,JNJ,http://www.jnj.com,08933
+Lilly Corporate Center, ,Indianapolis,Lilly (Eli) & Co.,317 276 2000,United States,"34,720",Drug Manufacturers—General,Healthcare,IN,LLY,http://www.lilly.com,46285
+2000 Galloping Hill Road, ,Kenilworth,Merck & Co.,908 740 4000,United States,"71,000",Drug Manufacturers—General,Healthcare,NJ,MRK,http://www.merck.com,07033
+130 Royall Street, ,Canton,Mylan N.V.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MYL,http://www.dunkinbrands.com,02021
+14 Schoolhouse Road, ,Somerset,Catalent,732 537 6200,United States,"13,900",Drug Manufacturers—Specialty & Generic,Healthcare,NJ,CTLT,http://www.catalent.com,08873
+130 Royall Street, ,Canton,Pfizer Inc.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PFE,http://www.dunkinbrands.com,02021
+10 Sylvan Way, ,Parsippany,Zoetis,973 822 7000,United States,"10,600",Drug Manufacturers—Specialty & Generic,Healthcare,NJ,ZTS,http://www.zoetis.com,07054
+485 Lexington Avenue, ,New York,The Travelers Companies Inc.,917-778-6000,United States,"30,800",Insurance—Property & Casualty,Financial Services,NY,TRV,http://www.travelers.com,10017
+175 Water Street, ,New York,American International Group,212-770-7000,United States,"46,000",Insurance—Diversified,Financial Services,NY,AIG,http://www.aig.com,10038
+6300 Wilson Mills Road, ,Mayfield,Progressive Corp.,440-461-5000,United States,"41,571",Insurance—Property & Casualty,Financial Services,OH,PGR,http://www.progressive.com,44143
+130 Royall Street, ,Canton,W. R. Berkley Corporation,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WRB,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Hartford Financial Svc.Gp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HIG,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Cincinnati Financial,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CINF,http://www.dunkinbrands.com,02021
+2775 Sanders Road, ,Northbrook,Allstate Corp,847-402-5000,United States,"45,780",Insurance—Property & Casualty,Financial Services,IL,ALL,http://www.allstate.com,60062-6127
+130 Royall Street, ,Canton,Chubb Limited,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CB,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,News Corp. Class A,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,NWSA,http://www.dunkinbrands.com,02021
+1211 Avenue of the Americas, ,New York,News Corp. Class B,212-416-3400,United States,"23,500",Broadcasting,Communication Services,NY,NWS,http://newscorp.com,10036
+130 Royall Street, ,Canton,Union Pacific Corp,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,UNP,http://www.dunkinbrands.com,02021
+Three Commercial Place, ,Norfolk,Norfolk Southern Corp.,757 629 2680,United States,"24,587",Railroads,Industrials,VA,NSC,http://www.norfolksouthern.com,23510-2191
+130 Royall Street, ,Canton,CSX Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CSX,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Kansas City Southern,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,KSU,http://www.dunkinbrands.com,02021
+400 South Hope Street,25th Floor,Los Angeles,CBRE Group,213-613-3333,United States,"100,000",Real Estate Services,Real Estate,CA,CBRE,http://www.cbre.com,90071
+Huntington Center,41 South High Street,Columbus,Huntington Bancshares,614-480-2265,United States,"15,680",Banks—Regional,Financial Services,OH,HBAN,http://www.huntington.com,43287
+Key Tower,127 Public Square,Cleveland,KeyCorp,216-689-3000,United States,"16,758",Banks—Regional,Financial Services,OH,KEY,http://www.key.com,44114-1306
+214 North Tryon Street, ,Charlotte,Truist Financial,336-733-2000,United States,"55,000",Banks—Regional,Financial Services,NC,TFC,http://www.truist.com,28202
+3003 Tasman Drive, ,Santa Clara,SVB Financial,408-654-7400,United States,"4,336",Banks—Regional,Financial Services,CA,SIVB,http://www.svb.com,95054-1191
+One Citizens Plaza, ,Providence,Citizens Financial Group,401-456-7000,United States,"17,930",Banks—Regional,Financial Services,RI,CFG,http://www.citizensbank.com,02903
+The Tower at PNC Plaza,300 Fifth Avenue,Pittsburgh,PNC Financial Services,888-762-2265,United States,"49,805",Banks—Regional,Financial Services,PA,PNC,http://www.pnc.com,15222-2401
+1900 Fifth Avenue North, ,Birmingham,Regions Financial Corp.,800-734-4667,United States,"19,766",Banks—Regional,Financial Services,AL,RF,http://www.regions.com,35203
+130 Royall Street, ,Canton,M&T Bank Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MTB,http://www.dunkinbrands.com,02021
+One South Main Street, ,Salt Lake City,Zions Bancorp,801-844-7637,United States,"9,726",Banks—Regional,Financial Services,UT,ZION,http://www.zionsbancorporation.com,84133-1109
+111 Pine Street,2nd Floor,San Francisco,First Republic Bank,415-392-1400,United States,"4,812",Banks—Regional,Financial Services,CA,FRC,http://www.firstrepublic.com,94111
+Fifth Third Center,38 Fountain Square Plaza,Cincinnati,Fifth Third Bancorp,800-972-3030,United States,"20,283",Banks—Regional,Financial Services,OH,FITB,http://www.53.com,45263
+"1550 Peachtree Street, NW", ,Atlanta,Equifax Inc.,404-885-8000,United States,"11,000",Consulting Services,Industrials,GA,EFX,http://www.equifax.com,30309
+545 Washington Boulevard, ,Jersey City,Verisk Analytics,201-469-3000,United States,"9,060",Consulting Services,Industrials,NJ,VRSK,http://www.verisk.com,07310-1686
+675 Avenue of the Americas, ,New York,Nielsen Holdings,646-654-5000,United States,"46,000",Consulting Services,Industrials,NY,NLSN,http://www.nielsen.com,10010
+130 Royall Street, ,Canton,IHS Markit Ltd.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,INFO,http://www.dunkinbrands.com,02021
+Two North Riverside Plaza,Suite 400,Chicago,Equity Residential,312-474-1300,United States,"2,600",REIT—Residential,Real Estate,IL,EQR,http://www.equityapartments.com,60606
+1100 Park Place,Suite 200,San Mateo,"Essex Property Trust, Inc.",650-655-7800,United States,"1,822",REIT—Residential,Real Estate,CA,ESS,http://www.essexapartmenthomes.com,94403
+4040 Wilson Boulevard,Suite 1000,Arlington,AvalonBay Communities,703-329-6300,United States,"3,122",REIT—Residential,Real Estate,VA,AVB,http://www.avalonbay.com,22203
+1745 Shea Center Drive,Suite 200,Highlands Ranch,"UDR, Inc.",720-283-6120,United States,"1,330",REIT—Residential,Real Estate,CO,UDR,http://www.udr.com,80129
+4582 South Ulster Street,Suite 1700,Denver,Apartment Investment & Management,303-757-8101,United States,950,REIT—Residential,Real Estate,CO,AIV,http://www.aimco.com,80237
+130 Royall Street, ,Canton,Mid-America Apartments,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MAA,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Starbucks Corp.,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SBUX,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Domino's Pizza,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,DPZ,http://www.dunkinbrands.com,02021
+1000 Darden Center Drive, ,Orlando,Darden Restaurants,407 245 4000,United States,"177,895",Restaurants,Consumer Cyclical,FL,DRI,http://www.darden.com,32837
+610 Newport Center Drive,Suite 1300,Newport Beach,Chipotle Mexican Grill,949 524 4000,United States,"94,000",Restaurants,Consumer Cyclical,CA,CMG,http://www.chipotle.com,92660
+130 Royall Street, ,Canton,Yum! Brands Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,YUM,http://www.dunkinbrands.com,02021
+110 North Carpenter Street, ,Chicago,McDonald's Corp.,630 623 3000,United States,"205,000",Restaurants,Consumer Cyclical,IL,MCD,http://corporate.mcdonalds.com,60607
+11995 El Camino Real, ,San Diego,Realty Income Corporation,858-284-5000,United States,201,REIT—Retail,Real Estate,CA,O,http://www.realtyincome.com,92130
+1626 East Jefferson Street, ,Rockville,Federal Realty Investment Trust,301-998-8100,United States,308,REIT—Retail,Real Estate,MD,FRT,http://www.federalrealty.com,20852
+130 Royall Street, ,Canton,Kimco Realty,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,KIM,http://www.dunkinbrands.com,02021
+One Independent Drive,Suite 114,Jacksonville,Regency Centers Corporation,904-598-7000,United States,450,REIT—Retail,Real Estate,FL,REG,http://www.regencycenters.com,32202
+225 West Washington Street, ,Indianapolis,Simon Property Group Inc,317-636-1600,United States,"3,500",REIT—Retail,Real Estate,IN,SPG,http://www.simon.com,46204
+4650 Cushing Parkway, ,Fremont,Lam Research,510 572 0200,United States,"11,300",Semiconductor Equipment & Materials,Technology,CA,LRCX,http://www.lamresearch.com,94538
+130 Royall Street, ,Canton,Teradyne,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TER,http://www.dunkinbrands.com,02021
+3050 Bowers Avenue,PO Box 58039,Santa Clara,Applied Materials Inc.,408 727 5555,United States,"23,600",Semiconductor Equipment & Materials,Technology,CA,AMAT,http://www.appliedmaterials.com,95052
+One Technology Drive, ,Milpitas,KLA Corporation,408 875 3000,United States,"10,600",Semiconductor Equipment & Materials,Technology,CA,KLAC,http://www.kla.com,95035
+160 Rio Robles, ,San Jose,Maxim Integrated Products Inc,408 601 1000,United States,"7,115",Semiconductors,Technology,CA,MXIM,http://www.maximintegrated.com,95134
+One Technology Way,PO Box 9106,Norwood,"Analog Devices, Inc.",781 329 4700,United States,"16,400",Semiconductors,Technology,MA,ADI,http://www.analog.com,02062
+2355 West Chandler Boulevard, ,Chandler,Microchip Technology,480 792 7200,United States,"18,000",Semiconductors,Technology,AZ,MCHP,http://www.microchip.com,85224-6199
+8000 South Federal Way, ,Boise,Micron Technology,208 368 4000,United States,"40,000",Semiconductors,Technology,ID,MU,http://www.micron.com,83716-9632
+5221 California Avenue, ,Irvine,Skyworks Solutions,949-231-3000,United States,"9,000",Semiconductors,Technology,CA,SWKS,http://www.skyworksinc.com,92617
+12500 TI Boulevard, ,Dallas,Texas Instruments,214 479 3773,United States,"29,768",Semiconductors,Technology,TX,TXN,http://www.ti.com,75243
+2788 San Tomas Expressway, ,Santa Clara,Nvidia Corporation,408 486 2000,United States,"13,775",Semiconductors,Technology,CA,NVDA,http://www.nvidia.com,95051
+1320 Ridder Park Drive, ,San Jose,Broadcom Inc.,408 433 8000,United States,"19,000",Semiconductors,Technology,CA,AVGO,http://www.broadcom.com,95131
+130 Royall Street, ,Canton,Advanced Micro Devices Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AMD,http://www.dunkinbrands.com,02021
+2100 Logic Drive, ,San Jose,Xilinx,408 559 7778,United States,"4,891",Semiconductors,Technology,CA,XLNX,http://www.xilinx.com,95124
+5775 Morehouse Drive, ,Washington,QUALCOMM Inc.,858 587 1121,United States,"37,000",Semiconductors,Technology,DC,QCOM,http://www.qualcomm.com,20006
+2200 Mission College Boulevard, ,Santa Clara,Intel Corp.,408 765 8080,United States,"111,300",Semiconductors,Technology,CA,INTC,http://www.intel.com,95054-1549
+130 Royall Street, ,Canton,Qorvo,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,QRVO,http://www.dunkinbrands.com,02021
+700 Anderson Hill Road, ,Purchase,PepsiCo Inc.,914 253 2000,United States,"267,000",Beverages—Non-Alcoholic,Consumer Defensive,NY,PEP,http://www.pepsico.com,10577
+One Coca-Cola Plaza, ,Atlanta,Coca-Cola Company,404 676 2121,United States,"86,200",Beverages—Non-Alcoholic,Consumer Defensive,GA,KO,http://www.coca-colacompany.com,30301
+130 Royall Street, ,Canton,Monster Beverage,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,MNST,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Public Storage,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,PSA,http://www.dunkinbrands.com,02021
+Four Embarcadero Center,Suite 3200,San Francisco,Digital Realty Trust Inc,415-738-6500,United States,"1,550",REIT—Office,Real Estate,CA,DLR,http://www.digitalrealty.com,94111
+2795 East Cottonwood Parkway,Suite 300,Salt Lake City,Extra Space Storage,801-365-4600,United States,"4,048",REIT—Industrial,Real Estate,UT,EXR,http://www.extraspace.com,84121
+130 Royall Street, ,Canton,Iron Mountain Incorporated,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,IRM,http://www.dunkinbrands.com,02021
+220 Occidental Avenue South, ,Seattle,Weyerhaeuser,206-539-3000,United States,"9,400",REIT—Specialty,Real Estate,WA,WY,http://www.weyerhaeuser.com,98104
+130 Royall Street, ,Canton,SBA Communications,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SBAC,http://www.dunkinbrands.com,02021
+1220 Augusta Drive,Suite 600,Houston,Crown Castle International Corp.,713-570-3000,United States,"5,100",REIT—Specialty,Real Estate,TX,CCI,http://www.crowncastle.com,77057-2261
+116 Huntington Avenue,11th Floor,Boston,American Tower Corp.,617-375-7500,United States,"5,454",REIT—Specialty,Real Estate,MA,AMT,http://www.americantower.com,02116
+One Lagoon Drive, ,Redwood City,Equinix,650-598-6000,United States,"9,181",REIT—Specialty,Real Estate,CA,EQIX,http://www.equinix.com,94065
+222 West Las Colinas Boulevard,Suite 900N,Irving,Celanese,972 443 4000,United States,"7,700",Chemicals,Basic Materials,TX,CE,http://www.celanese.com,75039
+521 West 57th Street, ,New York,International Flavors & Fragrances,212 765 5500,United States,"13,668",Specialty Chemicals,Basic Materials,NY,IFF,http://www.iff.com,10019
+4250 Congress Street,Suite 900,Charlotte,Albemarle Corp,980-299-5700,United States,"6,000",Specialty Chemicals,Basic Materials,NC,ALB,http://www.albemarle.com,28209
+One PPG Place, ,Pittsburgh,PPG Industries,412-434-3131,United States,"47,000",Specialty Chemicals,Basic Materials,PA,PPG,http://www.ppg.com,15272
+974 Centre Road,Building 730,Wilmington,DuPont de Nemours Inc,302 774 1000,United States,"35,000",Chemicals,Basic Materials,DE,DD,http://www.dupont.com,19805
+1221 McKinney Street,Suite 300,Houston,LyondellBasell,713 309 7200,United States,"19,100",Specialty Chemicals,Basic Materials,TX,LYB,http://www.lyondellbasell.com,77010
+1 Ecolab Place, ,Saint Paul,Ecolab Inc.,800 232 6522,United States,"45,000",Specialty Chemicals,Basic Materials,MN,ECL,http://www.ecolab.com,55102-2233
+130 Royall Street, ,Canton,Sherwin-Williams,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,SHW,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Tractor Supply Company,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,TSCO,http://www.dunkinbrands.com,02021
+12800 Tuckahoe Creek Parkway, ,Richmond,Carmax Inc,804 747 0422,United States,"25,000",Auto & Truck Dealerships,Consumer Cyclical,VA,KMX,http://www.carmax.com,23238
+130 Royall Street, ,Canton,AutoZone Inc,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,AZO,http://www.dunkinbrands.com,02021
+233 South Patterson Avenue, ,Springfield,O'Reilly Automotive,417 862 6708,United States,"72,877",Specialty Retail,Consumer Cyclical,MO,ORLY,http://www.oreillyauto.com,65802
+2999 Wildwood Parkway, ,Atlanta,Genuine Parts,678 934 5000,United States,"55,000",Specialty Retail,Consumer Cyclical,GA,GPC,http://www.genpt.com,30339
+130 Royall Street, ,Canton,Ulta Beauty,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ULTA,http://www.dunkinbrands.com,02021
+1915 Rexford Road, ,Charlotte,Nucor Corp.,704 366 7000,United States,"26,800",Steel,Basic Materials,NC,NUE,http://www.nucor.com,28211
+899 Kifer Road, ,Sunnyvale,Fortinet,408-235-7700,United States,"7,756",Software—Infrastructure,Technology,CA,FTNT,http://www.fortinet.com,94086
+One Microsoft Way, ,Redmond,Microsoft Corp.,425-882-8080,United States,"163,000",Software—Infrastructure,Technology,WA,MSFT,http://www.microsoft.com,98052-6399
+2225 Lawson Lane, ,Santa Clara,ServiceNow,408-501-8550,United States,"11,901",Software—Application,Technology,CA,NOW,http://www.servicenow.com,95054
+130 Royall Street, ,Canton,CDW,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,CDW,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Western Digital,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,WDC,http://www.dunkinbrands.com,02021
+1501 Page Mill Road, ,Palo Alto,HP Inc.,650 857 1501,United States,"56,000",Computer Hardware,Technology,CA,HPQ,http://www.hp.com,94304
+1395 Crossman Avenue, ,Sunnyvale,NetApp,408 822 6000,United States,"10,800",Computer Hardware,Technology,CA,NTAP,http://www.netapp.com,94089
+130 Royall Street, ,Canton,Seagate Technology,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,STX,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,Hewlett Packard Enterprise,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,HPE,http://www.dunkinbrands.com,02021
+One Apple Park Way, ,Cupertino,Apple Inc.,408-996-1010,United States,"137,000",Consumer Electronics,Technology,CA,AAPL,http://www.apple.com,95014
+201 Merritt 7,PO Box 4505,Norwalk,Xerox,203 968 3000,United States,"26,100",Information Technology Services,Technology,CT,XRX,http://www.xerox.com,06851-1056
+850 Main Street, ,Bridgeport,People's United Financial,203-338-7171,United States,"6,110",Banks—Regional,Financial Services,CT,PBCT,http://www.peoples.com,06604
+6601 West Broad Street, ,Richmond,Altria Group Inc,804 274 2200,United States,"7,300",Tobacco,Consumer Defensive,VA,MO,http://www.altria.com,23230
+120 Park Avenue, ,New York,Philip Morris International,917 663 2000,United States,"73,500",Tobacco,Consumer Defensive,NY,PM,http://www.pmi.com,10017
+100 First Stamford Place,Suite 700,Stamford,"United Rentals, Inc.",203 622 3131,United States,"19,100",Rental & Leasing Services,Industrials,CT,URI,http://www.unitedrentals.com,06902
+130 Royall Street, ,Canton,Old Dominion Freight Line,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,ODFL,http://www.dunkinbrands.com,02021
+130 Royall Street, ,Canton,J. B. Hunt Transport Services,781 737 3000,United States,"1,114",Restaurants,Consumer Cyclical,MA,JBHT,http://www.dunkinbrands.com,02021
+1 Water Street, ,Camden,American Water Works Company Inc,856 955 4001,United States,"6,800",Utilities—Regulated Water,Utilities,NJ,AWK,http://www.amwater.com,08102-1658
+12920 SE 38th Street, ,Bellevue,T-Mobile US,425-378-4000,United States,"53,000",Telecom Services,Communication Services,WA,TMUS,http://www.t-mobile.com,98006-1350
+5 Hanover Quay,Grand Canal Dock,,Aptiv PLC,353 1 259 7013,Ireland,"141,000",Auto Parts,Consumer Cyclical,,APTV,http://www.aptiv.com,
+Iveagh Court,Block D Harcourt Road,,Allegion,353 1 254 6200,Ireland,"11,000",Security & Protection Services,Industrials,,ALLE,http://www.allegion.com,
+Eaton House,30 Pembroke Road,,Eaton Corporation,353 1 637 2900,Ireland,"93,000",Specialty Industrial Machinery,Industrials,,ETN,http://www.eaton.com,
+The Priestley Centre,10 Priestley Road Surrey Research Park,,Linde plc,44 14 8324 2200,United Kingdom,"76,662",Specialty Chemicals,Basic Materials,,LIN,http://www.linde.com,
+The Leadenhall Building,The Aon Centre 122 Leadenhall Street,,Aon plc,44 20 7623 5500,United Kingdom,"50,000",Insurance Brokers,Financial Services,,AON,http://www.aon.com,
+The Sharp Building,Hogan Place,,Perrigo,353 1 709 4000,Ireland,"11,200",Drug Manufacturers—Specialty & Generic,Healthcare,,PRGO,http://www.perrigo.com,
+Seon Place,4th Floor 141 Front Street PO Box HM 845,,Everest Re Group Ltd.,441-295-0006,Bermuda,"1,603",Insurance—Reinsurance,Financial Services,,RE,http://www.everestre.com,

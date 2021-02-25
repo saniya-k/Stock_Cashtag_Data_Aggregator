@@ -1,5 +1,8 @@
 # README
 
+![banner](/images/banner.jpg)
+This is a scraping tool that can be used to get stock market and twitter mentions relating to a company. Here we've focussed on Technology Companies in S&P500.
+
 ## Generate S&P 500 companies (**S&P Top 500 companies.ipynb**)  
 
 The first part of this project is to find out which companies are in S&P Top500 and figure out their tickers and industries that they are in for the further use. Then, all the information found in the last step is save in **S&P 500 companies.csv** file. The process to run the file is - 
